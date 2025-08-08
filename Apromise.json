@@ -36,6 +36,12 @@
       "title": "Departure",
       "last_updated": 1754580286736,
       "url": "ch4.mdx"
-    }
+    },
+    "chapter-4": {
+      "volume": "WN",
+      "title": "At the outskirts of town",
+      "last_updated": 1754623246304,
+      "url": "ch5.mdx"
+    },
   }
 }
