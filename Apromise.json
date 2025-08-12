@@ -63,9 +63,15 @@
     },
     "chapter-8": {
       "volume": "WN",
-      "title": "Capital City Harve",
+      "title": "Measurements",
       "last_updated": 1754828701679,
       "url": "ch9.mdx"
+    },
+    "chapter-9": {
+      "volume": "WN",
+      "title": "Capital City Harve",
+      "last_updated": 1754968738817,
+      "url": "ch10.mdx"
     }
   }
 }
