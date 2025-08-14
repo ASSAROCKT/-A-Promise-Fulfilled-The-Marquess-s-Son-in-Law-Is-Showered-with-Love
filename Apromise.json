@@ -15,60 +15,70 @@
   "chapters": {
     "chapter-0": {
       "volume": "WN",
+      "display_chapter": 0,
       "title": "A Child’s Vow",
       "last_updated": 1754385600000,
       "url": "ch1.mdx"
     },
     "chapter-1": {
       "volume": "WN",
+      "display_chapter": 1,
       "title": "Sibling Gap",
       "last_updated": 1754438400000,
       "url": "ch2.mdx"
     },
     "chapter-2": {
       "volume": "WN",
+      "display_chapter": 2,
       "title": "The story of marrying in as a son-in-law",
       "last_updated": 1754491987408,
       "url": "ch3.mdx"
     },
     "chapter-3": {
       "volume": "WN",
+      "display_chapter": 3,
       "title": "Departure",
       "last_updated": 1754580286736,
       "url": "ch4.mdx"
     },
     "chapter-4": {
       "volume": "WN",
+      "display_chapter": 4,
       "title": "At the outskirts of town",
       "last_updated": 1754623246304,
       "url": "ch5.mdx"
     },
     "chapter-5": {
       "volume": "WN",
+      "display_chapter": 5,
       "title": "A Moment's Respite",
       "last_updated": 1754665811497,
       "url": "ch6.mdx"
     },
     "chapter-6": {
       "volume": "WN",
+      "display_chapter": 6,
       "title": "Violet's Recollection",
       "last_updated": 1754749055972,
       "url": "ch7.mdx"
     },
     "chapter-7": {
       "volume": "WN",
+      "display_chapter": 7,
       "title": "Lunchtime",
       "last_updated": 1754799610138,
       "url": "ch8.mdx"
     },
     "chapter-8": {
       "volume": "WN",
+      "display_chapter": 8,
       "title": "Measurements",
       "last_updated": 1754828701679,
       "url": "ch9.mdx"
     },
     "chapter-9": {
       "volume": "WN",
+      "display_chapter": 9,
       "title": "Capital City Harve",
       "last_updated": 1754968738817,
       "url": "ch10.mdx"
