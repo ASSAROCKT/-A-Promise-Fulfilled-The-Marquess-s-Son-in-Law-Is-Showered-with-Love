@@ -89,6 +89,13 @@
       "title": "Arrival",
       "last_updated": 1755254682390,
       "url": "ch11.mdx"
+    },
+    "chapter-11": {
+      "volume": "WN",
+      "display_chapter": 11,
+      "title": "Expectation",
+      "last_updated": 1755609137452,
+      "url": "ch12.mdx"
     }
   }
 }
